@@ -24,7 +24,7 @@ function love.load()
         w = 63,
         h = 53,
         color = {0, 0, 1},
-        speed = 250,l
+        speed = 250,
         score = 0,
         image = playerImage
     }
